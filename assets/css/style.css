@@ -333,6 +333,21 @@ section {
   margin-bottom: 0;
 }
 
+.btn {
+  background-color: #149ddd;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+/* Lighter background on mouse-over */
+.btn:hover {
+  background-color: #0dcaf0;
+}
+
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
