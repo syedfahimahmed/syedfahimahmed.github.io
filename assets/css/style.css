@@ -334,9 +334,9 @@ section {
 }
 
 .btn {
-  background-color: #149ddd;
+  background-color: white;
   border: none;
-  color: white;
+  color: #149ddd;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
@@ -345,7 +345,7 @@ section {
 
 /* Lighter background on mouse-over */
 .btn:hover {
-  background-color: #0dcaf0;
+  color: #0dcaf0;
 }
 
 /*--------------------------------------------------------------
